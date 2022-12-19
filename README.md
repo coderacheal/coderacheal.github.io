@@ -120,7 +120,7 @@ How to run test will be added in a future update
 
 You can deploy this project using:
 
-A web browser
+GitHub Pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
