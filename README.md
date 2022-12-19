@@ -58,7 +58,7 @@
 
 - **Project tiles**
 - **Interactive icons**
-
+- **A contact form to get in touch if you like my work**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -67,16 +67,11 @@
 
 - [Live Demo Link](https://coderacheal.github.io/)
 
-Please note that this link is not yet available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Install npm and ignore all node_modules
-> Add appropriate linter to your code directory
-> Have a basic understanding of flex-box, and grid
 
 To get a local copy up and running, follow these steps.
 
@@ -84,7 +79,7 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Go to this repsitory.
+Go to this repository.
 Click on Code
 Clone the repository using your https link
 This will gove you access to all files
@@ -97,7 +92,7 @@ Clone this repository to your desired folder:
 
   cd my-folder
   
-  git clone git@github.com:https://github.com/coderacheal/Portfolio.git 
+  git clone https://github.com/coderacheal/Portfolio.git 
 
 Once done, open the index.html file in live server
 
@@ -137,7 +132,7 @@ A web browser
 
 👤 **Racheal Appiah-kubi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@githubhandle](https://github.com/coderacheal)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
@@ -148,7 +143,7 @@ A web browser
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Adding projects I have done**
+- **Adding individual projects I have done**
 - **CV page**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
